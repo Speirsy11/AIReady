@@ -30,6 +30,7 @@ Use this before any future private backup, public-safe repo prep, or real-team r
 ### Fictional samples
 
 - `samples/fictional-readiness-review.md` — fictional AI adoption review for a small service business.
+- `samples/fictional-trades-readiness-review.md` — fictional trades-business review with blocked customer/scheduling workflows.
 
 ## Sensitive-data check
 
@@ -80,4 +81,4 @@ Block externalization if any are true:
 
 ## Current recommendation
 
-Keep this local and add one more fictional sample for a different team type before any external step. Do not create a remote, publish, contact anyone, or use real team data without explicit approval.
+Keep this local and consider adding a scoring rubric summary or local demo script before any external step. Do not create a remote, publish, contact anyone, or use real team data without explicit approval.

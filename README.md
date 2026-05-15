@@ -14,6 +14,7 @@ Many teams want to "use AI" before they know which workflows are safe, valuable,
 - `templates/use-case-scorecard.md` — score candidate AI use cases before piloting.
 - `templates/pilot-plan.md` — draft-only local pilot plan with approval gates.
 - `samples/fictional-readiness-review.md` — fictional example review for a small service business.
+- `samples/fictional-trades-readiness-review.md` — fictional trades-business review with blocked customer/scheduling workflows.
 - `docs/service-note.md` — local product/service positioning note for later validation.
 - `docs/review-packet.md` — local review order and go/no-go criteria.
 - `docs/externalization-preflight.md` — local preflight for backup, public-safe prep, or real-team review.
