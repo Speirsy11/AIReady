@@ -13,6 +13,7 @@ const requiredFiles = [
   'docs/service-note.md',
   'docs/review-packet.md',
   'docs/scoring-rubric.md',
+  'docs/local-demo-script.md',
   'docs/externalization-preflight.md',
   'package.json',
 ];
@@ -44,6 +45,10 @@ const requiredPhrases = [
   'Mandatory blockers override scores',
   'Intake-to-decision flow',
   'Draft-only pilot candidate',
+  '5-Minute Local Demo Script',
+  'Demo pass criteria',
+  'Demo fail criteria',
+  'high scores do not bypass approval gates',
 ];
 
 let corpus = '';

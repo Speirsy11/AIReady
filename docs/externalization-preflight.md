@@ -19,6 +19,7 @@ Use this before any future private backup, public-safe repo prep, or real-team r
 - `README.md` — kit overview, safe workflow, guardrails, and later revenue shape.
 - `docs/review-packet.md` — local review order and go/no-go criteria.
 - `docs/scoring-rubric.md` — local scoring thresholds and blocker overrides.
+- `docs/local-demo-script.md` — fictional local walkthrough with no private-system access.
 - `docs/service-note.md` — internal product/service positioning note.
 - `docs/externalization-preflight.md` — this local approval and safety preflight.
 
@@ -82,4 +83,4 @@ Block externalization if any are true:
 
 ## Current recommendation
 
-Keep this local and consider adding a local demo script before any external step. Do not create a remote, publish, contact anyone, or use real team data without explicit approval.
+Keep this local and consider adding public-safe metadata or one more fictional sample before any external step. Do not create a remote, publish, contact anyone, or use real team data without explicit approval.

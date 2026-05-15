@@ -18,6 +18,7 @@ Many teams want to "use AI" before they know which workflows are safe, valuable,
 - `docs/service-note.md` — local product/service positioning note for later validation.
 - `docs/review-packet.md` — local review order and go/no-go criteria.
 - `docs/scoring-rubric.md` — compact scoring guide from intake to pilot/blocked decision.
+- `docs/local-demo-script.md` — fictional 5-minute walkthrough from questionnaire to scorecard to pilot or blocked decision.
 - `docs/externalization-preflight.md` — local preflight for backup, public-safe prep, or real-team review.
 - `scripts/validate.js` — validates required files and guardrail language.
 
