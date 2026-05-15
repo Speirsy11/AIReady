@@ -15,6 +15,7 @@ const requiredFiles = [
   'docs/scoring-rubric.md',
   'docs/local-demo-script.md',
   'docs/public-repo-metadata-draft.md',
+  'docs/review-worksheet.md',
   'docs/externalization-preflight.md',
   'package.json',
 ];
@@ -54,6 +55,9 @@ const requiredPhrases = [
   'Short description',
   'Public-safe sample policy',
   'Release review checklist',
+  'Review Worksheet',
+  'Package readiness score',
+  'This worksheet cannot approve external action',
 ];
 
 let corpus = '';
