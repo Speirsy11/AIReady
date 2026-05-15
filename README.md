@@ -22,6 +22,7 @@ Many teams want to "use AI" before they know which workflows are safe, valuable,
 - `docs/local-demo-script.md` — fictional 5-minute walkthrough from questionnaire to scorecard to pilot or blocked decision.
 - `docs/public-repo-metadata-draft.md` — public-safe title, description, keywords, sample policy, and release checklist draft.
 - `docs/review-worksheet.md` — local worksheet for scoring package readiness before any approval-gated next step.
+- `docs/sample-comparison-matrix.md` — cross-sample review aid for spotting safe pilot and blocked-workflow patterns.
 - `docs/externalization-preflight.md` — local preflight for backup, public-safe prep, or real-team review.
 - `scripts/validate.js` — validates required files and guardrail language.
 

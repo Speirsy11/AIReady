@@ -17,6 +17,7 @@ const requiredFiles = [
   'docs/local-demo-script.md',
   'docs/public-repo-metadata-draft.md',
   'docs/review-worksheet.md',
+  'docs/sample-comparison-matrix.md',
   'docs/externalization-preflight.md',
   'package.json',
 ];
@@ -63,6 +64,9 @@ const requiredPhrases = [
   'Review Worksheet',
   'Package readiness score',
   'This worksheet cannot approve external action',
+  'Sample Comparison Matrix',
+  'Buyer-fit patterns',
+  'Safe draft-only candidate',
 ];
 
 let corpus = '';

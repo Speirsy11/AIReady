@@ -24,8 +24,9 @@
 10. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
 11. Walk through `docs/local-demo-script.md` as a fictional 5-minute demo.
 12. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
-13. Fill `docs/review-worksheet.md` locally if Charlie wants a package-level go/no-go score.
-14. Run `npm run check`.
+13. Compare the three fictional samples with `docs/sample-comparison-matrix.md`.
+14. Fill `docs/review-worksheet.md` locally if Charlie wants a package-level go/no-go score.
+15. Run `npm run check`.
 
 ## Go / no-go criteria
 
@@ -45,4 +46,4 @@
 
 ## Recommended next local step
 
-Use the three fictional samples to compare buyer-fit patterns, or pivot to a fresh local opportunity if marginal improvements are now low-value. Keep all work local and fictional.
+Use the comparison matrix during local review, or pivot to a fresh local opportunity if marginal improvements are now low-value. Keep all work local and fictional.

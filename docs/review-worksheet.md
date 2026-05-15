@@ -58,6 +58,8 @@ Mark `[blocked]` if any are true:
 - `docs/scoring-rubric.md`:
 - `docs/local-demo-script.md`:
 - `samples/fictional-trades-readiness-review.md`:
+- `samples/fictional-retail-readiness-review.md`:
+- `docs/sample-comparison-matrix.md`:
 - `docs/externalization-preflight.md`:
 
 ### Weakest or unclear assets

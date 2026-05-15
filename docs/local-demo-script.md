@@ -83,7 +83,7 @@ Open:
 2. `samples/fictional-trades-readiness-review.md`
 3. `samples/fictional-retail-readiness-review.md`
 
-Compare the decisions:
+Compare the decisions using `docs/sample-comparison-matrix.md`:
 
 - internal SOP/checklist work is a safer draft-only candidate;
 - customer transaction categorization is `[blocked]` because it needs private financial data;
