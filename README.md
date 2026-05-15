@@ -16,6 +16,7 @@ Many teams want to "use AI" before they know which workflows are safe, valuable,
 - `samples/fictional-readiness-review.md` — fictional example review for a small service business.
 - `docs/service-note.md` — local product/service positioning note for later validation.
 - `docs/review-packet.md` — local review order and go/no-go criteria.
+- `docs/externalization-preflight.md` — local preflight for backup, public-safe prep, or real-team review.
 - `scripts/validate.js` — validates required files and guardrail language.
 
 ## Safe workflow

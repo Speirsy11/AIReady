@@ -11,6 +11,7 @@ const requiredFiles = [
   'samples/fictional-readiness-review.md',
   'docs/service-note.md',
   'docs/review-packet.md',
+  'docs/externalization-preflight.md',
   'package.json',
 ];
 
@@ -28,6 +29,11 @@ const requiredPhrases = [
   '[blocked]',
   'No private systems inspected',
   'No claims of compliance',
+  'Externalization Preflight',
+  'Sensitive-data check',
+  'Approval gates by path',
+  'Release blockers',
+  'Do not create a remote',
 ];
 
 let corpus = '';

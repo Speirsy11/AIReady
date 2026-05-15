@@ -18,7 +18,8 @@
 4. Review `templates/pilot-plan.md` for draft-only pilot boundaries.
 5. Read `samples/fictional-readiness-review.md` to see a fictional completed review.
 6. Read `docs/service-note.md` for possible later validation/offer shape.
-7. Run `npm run check`.
+7. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
+8. Run `npm run check`.
 
 ## Go / no-go criteria
 
@@ -38,4 +39,4 @@
 
 ## Recommended next local step
 
-Add an externalization preflight or a second fictional sample for a different team type if this opportunity remains promising. Keep all work local and fictional.
+Add a second fictional sample for a different team type if this opportunity remains promising. Keep all work local and fictional.
