@@ -2,7 +2,7 @@
 
 > Draft scoring tool only. Scores do not approve implementation, deployment, private-data processing, or external action.
 
-Score each candidate from 1 (weak/risky) to 5 (strong/safe).
+Score each candidate from 1 (weak/risky) to 5 (strong/safe). See `docs/scoring-rubric.md` for scoring definitions, threshold interpretation, and blocker overrides.
 
 | Candidate use case | Value | Repetition | Data safety | Human review | Measurability | Total | Decision |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |

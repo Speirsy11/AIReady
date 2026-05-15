@@ -15,12 +15,13 @@
 1. Read `README.md` for purpose and guardrails.
 2. Review `templates/readiness-questionnaire.md` for safe intake.
 3. Review `templates/use-case-scorecard.md` for candidate prioritization and blockers.
-4. Review `templates/pilot-plan.md` for draft-only pilot boundaries.
-5. Read `samples/fictional-readiness-review.md` to see a fictional completed review.
-6. Read `samples/fictional-trades-readiness-review.md` to see blocked customer/scheduling workflows.
-7. Read `docs/service-note.md` for possible later validation/offer shape.
-8. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
-9. Run `npm run check`.
+4. Review `docs/scoring-rubric.md` for scoring thresholds, blocker overrides, and intake-to-decision flow.
+5. Review `templates/pilot-plan.md` for draft-only pilot boundaries.
+6. Read `samples/fictional-readiness-review.md` to see a fictional completed review.
+7. Read `samples/fictional-trades-readiness-review.md` to see blocked customer/scheduling workflows.
+8. Read `docs/service-note.md` for possible later validation/offer shape.
+9. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
+10. Run `npm run check`.
 
 ## Go / no-go criteria
 
@@ -40,4 +41,4 @@
 
 ## Recommended next local step
 
-Add a scoring rubric summary or local demo script if this opportunity remains promising. Keep all work local and fictional.
+Add a local demo script if this opportunity remains promising. Keep all work local and fictional.

@@ -12,6 +12,7 @@ const requiredFiles = [
   'samples/fictional-trades-readiness-review.md',
   'docs/service-note.md',
   'docs/review-packet.md',
+  'docs/scoring-rubric.md',
   'docs/externalization-preflight.md',
   'package.json',
 ];
@@ -39,6 +40,10 @@ const requiredPhrases = [
   'Approval gates by path',
   'Release blockers',
   'Do not create a remote',
+  'Scoring Rubric',
+  'Mandatory blockers override scores',
+  'Intake-to-decision flow',
+  'Draft-only pilot candidate',
 ];
 
 let corpus = '';
