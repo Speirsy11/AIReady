@@ -1,8 +1,8 @@
 {
-  "name": "ai-adoption-readiness-kit",
+  "name": "ai-ready",
   "version": "0.1.0",
   "private": true,
-  "description": "Local-first templates for AI adoption readiness, use-case scoring, and draft-only pilot planning.",
+  "description": "Self-assessment kit for safe AI adoption planning.",
   "scripts": {
     "check": "node scripts/validate.js"
   },

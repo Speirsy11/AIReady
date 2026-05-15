@@ -1,46 +1,37 @@
-# AI Adoption Readiness Kit
+# AIReady
 
-A local-first self-assessment kit for small teams deciding whether they are ready to adopt AI tools safely and usefully.
+**AIReady helps a team decide whether it is ready to adopt AI tools safely.**
 
-This repository is a **local starter artifact only**. It is not published, not pushed, not a SaaS product, and not permission to inspect private systems, process customer data, contact anyone, deploy anything, spend money, or change accounts/credentials.
+It is a local self-assessment kit: ask readiness questions, score AI use cases, spot blocked workflows, and draft a small pilot plan.
 
-## Why this exists
+## Who it is for
 
-Many teams want to "use AI" before they know which workflows are safe, valuable, measurable, and reviewable. This kit turns AI adoption into a short readiness review: current workflows, data sensitivity, approval gates, candidate use cases, and a go/no-go decision.
+Small teams, agencies, or internal departments that want to use AI but are not sure which workflows are safe, useful, or measurable.
 
-## Included files
+## How to use it
 
-- `templates/readiness-questionnaire.md` — safe intake questions for workflow, data, risk, and success criteria.
-- `templates/use-case-scorecard.md` — score candidate AI use cases before piloting.
-- `templates/pilot-plan.md` — draft-only local pilot plan with approval gates.
-- `samples/fictional-readiness-review.md` — fictional example review for a small service business.
-- `samples/fictional-trades-readiness-review.md` — fictional trades-business review with blocked customer/scheduling workflows.
-- `samples/fictional-retail-readiness-review.md` — fictional retail review showing blocked inventory/order/customer workflows.
-- `docs/service-note.md` — local product/service positioning note for later validation.
-- `docs/review-packet.md` — local review order and go/no-go criteria.
-- `docs/scoring-rubric.md` — compact scoring guide from intake to pilot/blocked decision.
-- `docs/local-demo-script.md` — fictional 5-minute walkthrough from questionnaire to scorecard to pilot or blocked decision.
-- `docs/public-repo-metadata-draft.md` — public-safe title, description, keywords, sample policy, and release checklist draft.
-- `docs/review-worksheet.md` — local worksheet for scoring package readiness before any approval-gated next step.
-- `docs/sample-comparison-matrix.md` — cross-sample review aid for spotting safe pilot and blocked-workflow patterns.
-- `docs/externalization-preflight.md` — local preflight for backup, public-safe prep, or real-team review.
-- `scripts/validate.js` — validates required files and guardrail language.
+1. Start with `templates/readiness-questionnaire.md`
+2. Score ideas with `templates/use-case-scorecard.md`
+3. Compare examples in `samples/`
+4. Draft a pilot with `templates/pilot-plan.md`
+5. Run checks:
 
-## Safe workflow
+```bash
+npm run check
+```
 
-1. Fill in the readiness questionnaire with fictional or explicitly approved data only.
-2. Score candidate use cases before choosing a pilot.
-3. Draft a pilot plan that stays local and approval-gated.
-4. Record skipped checks as `not reviewed` or `[blocked]` rather than treating them as safe.
-5. Run `npm run check` before review.
+## What it helps you answer
 
-## Guardrails
+- Which workflows are good AI candidates?
+- Which workflows are too risky right now?
+- What data is sensitive?
+- Where is human review required?
+- What would a safe pilot look like?
 
-- Do not include secrets, tokens, credentials, private customer data, production URLs, account IDs, or regulated data.
-- Do not deploy, publish, push, spend, contact users, change credentials, or inspect private systems without explicit approval.
-- Treat AI recommendations as draft work until reviewed by a human.
-- Prefer low-risk internal workflows before customer-impacting or production workflows.
+## Example use case
 
-## Later revenue shape
+A small team says, “We want to use AI in our operations.” AIReady helps them separate safe internal drafting tasks from blocked customer, compliance, production, or private-data workflows.
 
-After local review, this could become a small AI adoption readiness workshop, self-assessment template, or paid workflow audit entry point for small teams. Any public repo, outreach, payment setup, real-client use, private-system inspection, or deployment requires Charlie's explicit approval first.
+## Safety rule
+
+Do not include secrets, customer data, production URLs, account IDs, or regulated data. Treat AI recommendations as draft work until reviewed by a human. This is a local starter artifact only and does not give permission to inspect private systems or contact anyone.
