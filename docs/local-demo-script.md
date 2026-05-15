@@ -81,6 +81,7 @@ Open:
 
 1. `samples/fictional-readiness-review.md`
 2. `samples/fictional-trades-readiness-review.md`
+3. `samples/fictional-retail-readiness-review.md`
 
 Compare the decisions:
 

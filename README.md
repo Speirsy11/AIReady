@@ -15,6 +15,7 @@ Many teams want to "use AI" before they know which workflows are safe, valuable,
 - `templates/pilot-plan.md` — draft-only local pilot plan with approval gates.
 - `samples/fictional-readiness-review.md` — fictional example review for a small service business.
 - `samples/fictional-trades-readiness-review.md` — fictional trades-business review with blocked customer/scheduling workflows.
+- `samples/fictional-retail-readiness-review.md` — fictional retail review showing blocked inventory/order/customer workflows.
 - `docs/service-note.md` — local product/service positioning note for later validation.
 - `docs/review-packet.md` — local review order and go/no-go criteria.
 - `docs/scoring-rubric.md` — compact scoring guide from intake to pilot/blocked decision.

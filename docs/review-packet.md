@@ -19,12 +19,13 @@
 5. Review `templates/pilot-plan.md` for draft-only pilot boundaries.
 6. Read `samples/fictional-readiness-review.md` to see a fictional completed review.
 7. Read `samples/fictional-trades-readiness-review.md` to see blocked customer/scheduling workflows.
-8. Read `docs/service-note.md` for possible later validation/offer shape.
-9. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
-10. Walk through `docs/local-demo-script.md` as a fictional 5-minute demo.
-11. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
-12. Fill `docs/review-worksheet.md` locally if Charlie wants a package-level go/no-go score.
-13. Run `npm run check`.
+8. Read `samples/fictional-retail-readiness-review.md` to see blocked inventory/order/customer workflows.
+9. Read `docs/service-note.md` for possible later validation/offer shape.
+10. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
+11. Walk through `docs/local-demo-script.md` as a fictional 5-minute demo.
+12. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
+13. Fill `docs/review-worksheet.md` locally if Charlie wants a package-level go/no-go score.
+14. Run `npm run check`.
 
 ## Go / no-go criteria
 
@@ -44,4 +45,4 @@
 
 ## Recommended next local step
 
-Add a third fictional sample if this opportunity remains promising. Keep all work local and fictional.
+Use the three fictional samples to compare buyer-fit patterns, or pivot to a fresh local opportunity if marginal improvements are now low-value. Keep all work local and fictional.
