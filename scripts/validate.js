@@ -14,6 +14,7 @@ const requiredFiles = [
   'docs/review-packet.md',
   'docs/scoring-rubric.md',
   'docs/local-demo-script.md',
+  'docs/public-repo-metadata-draft.md',
   'docs/externalization-preflight.md',
   'package.json',
 ];
@@ -49,6 +50,10 @@ const requiredPhrases = [
   'Demo pass criteria',
   'Demo fail criteria',
   'high scores do not bypass approval gates',
+  'Public-Safe Metadata Draft',
+  'Short description',
+  'Public-safe sample policy',
+  'Release review checklist',
 ];
 
 let corpus = '';

@@ -22,7 +22,8 @@
 8. Read `docs/service-note.md` for possible later validation/offer shape.
 9. Read `docs/externalization-preflight.md` before any backup, public-safe prep, or real-team review.
 10. Walk through `docs/local-demo-script.md` as a fictional 5-minute demo.
-11. Run `npm run check`.
+11. Review `docs/public-repo-metadata-draft.md` for public-safe positioning and release blockers.
+12. Run `npm run check`.
 
 ## Go / no-go criteria
 
@@ -42,4 +43,4 @@
 
 ## Recommended next local step
 
-Add a public-safe metadata draft or a third fictional sample if this opportunity remains promising. Keep all work local and fictional.
+Add a third fictional sample or compact review worksheet if this opportunity remains promising. Keep all work local and fictional.

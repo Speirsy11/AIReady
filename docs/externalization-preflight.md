@@ -20,6 +20,7 @@ Use this before any future private backup, public-safe repo prep, or real-team r
 - `docs/review-packet.md` — local review order and go/no-go criteria.
 - `docs/scoring-rubric.md` — local scoring thresholds and blocker overrides.
 - `docs/local-demo-script.md` — fictional local walkthrough with no private-system access.
+- `docs/public-repo-metadata-draft.md` — local-only public-safe metadata and release checklist draft.
 - `docs/service-note.md` — internal product/service positioning note.
 - `docs/externalization-preflight.md` — this local approval and safety preflight.
 
@@ -83,4 +84,4 @@ Block externalization if any are true:
 
 ## Current recommendation
 
-Keep this local and consider adding public-safe metadata or one more fictional sample before any external step. Do not create a remote, publish, contact anyone, or use real team data without explicit approval.
+Keep this local and consider adding one more fictional sample or review worksheet before any external step. Do not create a remote, publish, contact anyone, or use real team data without explicit approval.
